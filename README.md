@@ -26,7 +26,3 @@ Hier gibt es den Code für den Gucki sowie im Verzeichnis _CAD_ die **[Schneidev
 ## Installationsanleitung
 
 Die **[ausführliche Installationsanleitung](https://heise.de/-7263954)** gibt es auf der Webseite make-magazin.de.
-
------
-Es folgt die orignale Readme-Datei des verwendeten _esp32-cam-webservers_:
-
